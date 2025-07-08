@@ -89,11 +89,6 @@ Réduire la facture AWS en arrêtant les instances EC2 la nuit et les redémarra
 | `demarrage`     | 05h GMT           | Démarre EC2          |
 | `arreter`       | 22h GMT           | Arrête EC2           |
 
----
-
-## 📸 Architecture
-
-*(Tu peux ici ajouter une image de l’architecture ou un schéma si disponible)*
 
 ---
 
